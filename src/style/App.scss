@@ -1,6 +1,8 @@
 $base-color: #f0efe8;
 $test: #e7b3b3;
 $test2: #7a6a6a;
+$navbarheight: 3vh;
+$contentheight: 95vh;
 @import 'navbar';
 @import 'index';
 @import 'about';
@@ -14,7 +16,7 @@ $test2: #7a6a6a;
   font-family: Helvetica;
   font-size: 12px;
   color: #000000;
-  margin-top: 7vh;
+  margin-top: 5vh;
   text-decoration: none;
 
   h1 {

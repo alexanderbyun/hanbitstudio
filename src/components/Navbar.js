@@ -7,7 +7,7 @@ function Navbar() {
                 <a className="title" href="/index">HANBIT STUDIO</a>
                 <ul className="nav-links">
                     <li>
-                        <a href="/about">ABOUT</a>
+                        <a href="#about">ABOUT</a>
                     </li>
                     <li>
                         <a href="/galleries">GALLERIES</a>

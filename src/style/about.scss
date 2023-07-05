@@ -1,7 +1,7 @@
 .about {
     display: flex;
     flex-direction: column;
-    height: 93vh;
+    height: $contentheight;
     background-color: $base-color;
 
     .about-a {
