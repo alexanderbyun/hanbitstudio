@@ -1,0 +1,50 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    padding: 1vh;
+    height: 5vh;
+    font-size: 12px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    overflow: hidden;
+    background-color: $base-color;
+    border-bottom-style: solid;
+    border-width: 1px;
+
+    .title {
+      display: flex;
+      flex: 1;
+      align-items: center;
+      justify-content: left;
+      width: 30%;
+      font-size: large;
+      font-weight: bold;
+    }
+
+    .nav-links {
+      display: flex;
+      flex: 1;
+      align-items: center;
+      justify-content: right;
+      padding-right: 1vh;
+      width: 70%;
+      
+      li {
+        list-style: none;
+        padding: 0 20px;
+        position: relative;
+      }
+      
+      button {
+        background-color: $base-color;
+        font-family: Helvetica;
+        color: #000000;
+        font-size: 11px;
+        border-radius: 8px;
+        padding: 4px;
+      }
+
+    }
+
+  }

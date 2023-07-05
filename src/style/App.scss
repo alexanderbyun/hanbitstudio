@@ -1,0 +1,28 @@
+$base-color: #f0efe8;
+$test: #e7b3b3;
+$test2: #7a6a6a;
+@import 'navbar';
+@import 'index';
+@import 'about';
+@import 'process';
+@import 'igfeed';
+@import 'galleries';
+@import 'footer';
+
+.app {
+  background-color: $base-color;
+  font-family: Helvetica;
+  font-size: 12px;
+  color: #000000;
+  margin-top: 7vh;
+  text-decoration: none;
+
+  h1 {
+    font-size: 12px;
+  }
+
+  a {
+    color: #000000;
+    text-decoration: none;
+  }
+}
