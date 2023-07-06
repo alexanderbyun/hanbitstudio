@@ -9,18 +9,18 @@ function About() {
                     {/* Spacer */}
                 </div>
                 <div className="about-a2">
-                    a2
+                    Hannah Chung
                 </div>
                 <div className="about-a3">
-                    a3
+                    Image of Hannah
                 </div>
             </div>
             <div className="about-b">
                 <div className="about-b1">
-                    b1
+                    Image without Subjects
                 </div>
                 <div className="about-b2">
-                    b2
+                    Background
                 </div>
                 <div className="about-b3">
                     {/* Spacer */}
